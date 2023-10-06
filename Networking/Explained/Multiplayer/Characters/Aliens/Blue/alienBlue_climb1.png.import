@@ -16,9 +16,9 @@ dest_files=["res://.godot/imported/alienBlue_climb1.png-cdbb9cc3b84b6bbc51d46416
 [params]
 
 compress/mode=0
+compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=false
